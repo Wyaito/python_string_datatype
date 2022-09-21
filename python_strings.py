@@ -1,4 +1,4 @@
-# TODO Create Variablessss
+# TODO Create Variables
 #   - Create the following variables
 #   - my_first_name
 #       -set this equal to your first name
